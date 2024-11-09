@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427379084898",
+    "project_id": "tnotification-3abce",
+    "storage_bucket": "tnotification-3abce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427379084898:android:18832d933d617ac7828b3b",
+        "android_client_info": {
+          "package_name": "com.example.taskproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeQjH2CLfzDZWpMpVR1dFt9osaK5qV13Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
